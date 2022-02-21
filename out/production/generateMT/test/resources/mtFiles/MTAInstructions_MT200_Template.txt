@@ -1,0 +1,7 @@
+{1:F01HSHNDEHHAXXX0403000403}{2:O200<Insert_Time_Date>BELADEBEAXXX0403000404<Insert_Date>1046S}{3:{121:180f1e65-90e0-44d5-a49a-00AD35000193}}{4:
+:20:<Insert_Ref>
+:32A:<Insert_Date><Insert_Currency><Insert_Amount>
+:53B:/30000010
+:57A:<Beneficiary_BIC>
+:72:/REC/TESTCASE
+-}

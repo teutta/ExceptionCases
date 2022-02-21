@@ -1,0 +1,19 @@
+{1:F01HSHNDEHHAXXX0405000405}{2:O103<Insert_Time_Date>BELADEBEAXXX0405000405<Insert_Date>1046S}{3:{121:180f1e65-90e0-44d5-a49a-00AD35000195}}{4:
+:20:<Insert_Ref>
+:23B:CRED
+:32A:<Insert_Date><Insert_Currency><Insert_Amount>
+:33B:<Insert_Currency><Insert_Amount>
+:50K:/<Debtor_Iban>
+1/<Debtor_Name>
+2/<Debtor_Address>
+3/<Debtor_City>
+:53B:/30000010
+:57A:<Beneficiary_BIC>
+:59F:/9999
+1/EXXON CORP.
+2/AVE OF THE AMERICAS 1251
+3/US/NY 10020 NEW YORK CITY
+:70:INVOICE REF 211102 0405
+:71A:SHA
+:72:/REC/TESTCASE
+-}
