@@ -1,0 +1,7 @@
+{1:F01HSHNDEHHAXXX1338800387}{2:O290<Insert_Time_Date>IRVTUS3NAXXX033710<Insert_Time_Date>1247S}{3:{103:FIN}}{4:
+:20:<Insert_Ref>
+:21:<Insert_Ref2>
+:25:1200020270
+:32D:<Insert_Date><Insert_Currency><Insert_Amount>
+:71B:OUR CHARGES
+-}

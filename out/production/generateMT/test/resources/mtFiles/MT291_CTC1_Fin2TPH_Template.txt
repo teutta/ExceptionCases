@@ -1,0 +1,6 @@
+{1:F01HSHNDEHHAXXX1441800391}{2:O291<Insert_Time_Date>CHASUS33AXXX144110<Insert_Time_Date>1247S}{3:{103:FIN}}{4:
+:20:<Insert_Ref>
+:21:393400000
+:32B:<Insert_Currency><Insert_Amount>
+:71B:/PHON/
+-}
